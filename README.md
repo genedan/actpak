@@ -1,15 +1,59 @@
-# actpak
-Guide to making actuarial packages in python and R
+# Designing Actuarial Packages
+
+Guide to making actuarial packages in Python and R
 
 - Introduction
    - What this paper (book) seeks to accomplish/what questions it aims to answer
+   - How you can help
+   - This paper is open source
 - Problem Identification
+  - What is Python used for? How do you know when to use Python?
+  - This paper's scope: Database -> Triangle -> IBNR -> Database
 - Moving from Scripts to Packages
+- IDEs
+- Virtual Environments
+  - conda
+  - venv
 - Package structure (file organization)
-- Requirements
+  - Documentation 
+  - Namespace root 
+  - Requirements
+  - .gitignore
+- Python Best Practices
+  - PEPs
+  - Object-Oriented Design
+    - Classes
+    - Methods
+- Documentation
+  - Sphinx
+  - Mkdocs
+  - Knitr?
 - Database Integration
+  - Reading data from
+  - Writing data to
+- Hosting
+  - Domain registration 
+  - VPS
+- Security
+  - Managing keys and tokens - where are they stored?
 - Git Workflow
+  - Hosting options: GitHub/GitLab/Azure Devops, on-prem vs. cloud 
   - Using GitHub
   - GitHub Actions (or CI/CD)
+- Distributing the Package
+  - PyPI
+  - CRAN
+  - Internal Repository (artifactory)
+  - Licenses
+- Maintaining the Package
+  - BDFL
+  - Issues
+  - Pull Requests
+  - Stashing
+  - GitHub Actions
+- Community Involvement
+  - Extensibility
 - Documentation
 - Testing Suite
+- Glossary
+- References
