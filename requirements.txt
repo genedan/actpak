@@ -1,0 +1,7 @@
+# Python 3.11
+
+sphinx == 8.2.3
+sphinx_rtd_theme == 3.0.2
+
+# Example package documentation
+pydata-sphinx-theme
