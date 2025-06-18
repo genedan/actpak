@@ -10,6 +10,7 @@ Guide to making actuarial packages in Python and R
   - What is Python used for? How do you know when to use Python?
   - This paper's scope: Database -> Triangle -> IBNR -> Database
 - Moving from Scripts to Packages
+  - For working with teams, see...
 - IDEs
 - Virtual Environments
   - conda
@@ -39,6 +40,7 @@ Guide to making actuarial packages in Python and R
 - Git Workflow
   - Hosting options: GitHub/GitLab/Azure Devops, on-prem vs. cloud 
   - Using GitHub
+  - Moving from solo to teams
   - GitHub Actions (or CI/CD)
 - Distributing the Package
   - PyPI
@@ -54,6 +56,13 @@ Guide to making actuarial packages in Python and R
 - Community Involvement
   - Extensibility
 - Documentation
+  - Documentation systems: Spinx, Mkdocs
+  - Markup languages: rst, markdown
+  - Tutorial
+  - User Guide
+  - Contributing Guide
+  - API Reference
 - Testing Suite
+  - pytest, unittest
 - Glossary
 - References
