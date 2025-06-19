@@ -10,6 +10,14 @@ Purpose and Intended Audience
 
 This book aims to guide such actuaries (and related professionals) in building deployable packages in Python. The ideal reader is one who may be writing Python scripts at work but is looking to upgrade their skills into building packages. Also, those who have written packages at work but are apprehensive as to whether the quality of their work matches that of the broader community may also learn a thing or two from this book.
 
+Since this book mentions a wide array of technologies, including Git, SQL, Databases, and various markup languages,
+it would not be practical to introduce all of them at the beginner level. Instead, this book will cater to those who
+may have at least dabbled in these tools, but have yet to integrate them together and are looking to enhance their
+skills in these technologies beyond the beginner level.
+
+If you are like me, a person who is interested in applying open-source tools and languages at work but finds themself isolated
+from the wider community - for example, being the only programmer in a department and is looking for further guidance -
+this book is for you.
 
 A Living Document
 ^^^^^^^^^^^^^^^^^
