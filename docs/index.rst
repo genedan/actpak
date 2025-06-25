@@ -6,3 +6,6 @@ Designing Actuarial Packages in Python
 .. toctree::
 
    introduction
+   problem_id
+   glossary
+   citations
