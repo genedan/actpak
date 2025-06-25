@@ -1,6 +1,7 @@
 """
 Configuration file for the overall book - Designing Actuarial Packages in Python and R.
 """
+import sphinx_rtd_theme
 import sys
 sys.path.append('..')
 from actpak.constants import BUILD_VERSION
@@ -20,3 +21,9 @@ master_doc = 'index'
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 pygments_style = None
+
+extensions = [
+    "sphinx_rtd_theme"
+]
+
+html_theme = 'sphinx_rtd_theme'
