@@ -175,9 +175,11 @@ Below is a triangle that you may have already seen if you've taken CAS Exam 5. I
 
 Your job as an actuary is to develop these losses, estimate the reserves, and then communicate those results to upper management. Now, what tools do we choose to solve the problem?
 
-- explain solution
+Unless you're working at a startup, there's probably already a process in place. Within the actuarial world, you'll find solutions ranging from Excel spreadsheets, to enterprise software, and in-house systems. Each of these approaches has their own trade-offs when it comes to solving the problem. For example, spreadsheets offer a great deal of flexibility, but interface poorly with modern version control systems and are difficult to scale as the business grows. Enterprise software offers immediate functionality, but can be expensive and often times, closed-source. In-house systems have the promise of complete control over the solution, but requires the organization to spend resources to develop and maintain it.
 
-- now what?
+In our scenario, suppose you're working at a small to mid-size carrier, reserving for this one line of business. The reserve studies are done quarterly and saved in a series of Excel files on a shared drive. When the company was small, this approach worked well. The actuaries have made Excel templates out of the main actuarial methods used by the department - Chain Ladder, Cape Cod, and Bornhuetter-Ferguson. Each quarter simply requires an actuary to copy the Excel file contianing last quarter's work, update it with the current quarter's data, and then perform the analysis. Selections are then aggregated and sent to a more senior actuary who then communicates them to executive management. Once IBNR is agreed upon, the numbers are sent to accounting for entry into the general ledger.
+
+However, as the company grows, this approach will no longer be scalable.
 
 Sometimes, it's OK to be old school
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
